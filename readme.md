@@ -1,13 +1,16 @@
-PROJECT BY -
+TEAM NAME - GALACTIC STARS
 
-section - 3 'F' 
+project assigned by - 
+		Dr.Mamatha.H.R
 
-1)PRUTHVISH E 
 
-	srn - PES1201701629
+team members - 
 
-2)VAIBHAV K T 
-	srn - PES1201700924
+	1)PRUTHVISH E 
+		srn - PES1201701629
 
-3)ASHRITH SRIDHAR
-	srn - PES1201700649
+  	2)VAIBHAV K T 
+		srn - PES1201700924
+
+	3)ASHRITH SRIDHAR
+		srn - PES1201700649
